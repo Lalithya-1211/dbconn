@@ -8,7 +8,7 @@ app.use(express.json());
 app.use('/', routes);
 
 app.listen(7000,(req,res)=>{
-    console.log('port started at 7001');
+    console.log('port started at 7075');
 
 })
 
